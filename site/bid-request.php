@@ -58,7 +58,7 @@ const FORMS = [
 
 
 // ------------------------------------------------------------------ respostas
-$lang      = in_array(($_POST['lang'] ?? 'en'), ['en','es','pt'], true) ? (string)$_POST['lang'] : 'en';
+$lang      = in_array(($_POST['lang'] ?? 'en'), ['en','es','pt'], true) ? (string)($_POST['lang'] ?? 'en') : 'en';
 $wantsJson = stripos((string)($_SERVER['HTTP_ACCEPT'] ?? ''), 'application/json') !== false;
 $thankYou  = THANK_YOU[$lang];
 
