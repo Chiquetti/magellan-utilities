@@ -2,9 +2,9 @@
 
 Repositório do site da **Magellan Utilities Consulting LLC** — `magellanuc.com`.
 
-**Status: documentação apenas.** Ainda não há código. O que existe aqui é a
-base estratégica e técnica para construir o site, herdada da landing page da
-AMT Business.
+**Status:** o código do site publicado está em [`site/`](site/) (importado da
+HostGator em 01/10/2026). A pasta `docs/` guarda a base estratégica e técnica
+herdada da landing page da AMT Business. O README será reescrito na pendência MUC17.
 
 ## O que tem aqui
 
