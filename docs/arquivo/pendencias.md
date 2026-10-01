@@ -1,3 +1,12 @@
+> **⚠ Documento arquivado — não usar como referência.**
+> Escrito em 2026-08-05, quando a empresa ainda era tratada como
+> *Magellan Utilities **Consulting*** (consultoria e compliance) e o plano era
+> herdar a estrutura da landing page da AMT. Esse posicionamento e essa herança
+> foram **descartados**: o site publicado é de uma empreiteira de infraestrutura
+> subterrânea (*Magellan Utilities **Construction***). A fonte de verdade é o
+> [README](../../README.md) e o código em [`site/`](../../site/). Mantido só como
+> histórico de decisão.
+
 # Magellan Utility — o que precisa ser decidido antes do site
 
 Não existe briefing próprio da Magellan Utilities Consulting. O que há nos
